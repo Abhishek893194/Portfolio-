@@ -1,7 +1,9 @@
+*{
+  margin: 0;
+  padding:0;
+}
 h1 {
   background-color: #EBBF71;
-  margin: 0;
-  padding: 0;
   display: flex;
   margin-top: 500px;
   font-size: 4rem;
